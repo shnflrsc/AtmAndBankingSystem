@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static final String BANK = "Flower-Esque Bank";
+    static final String BANK = "Floweresque Bank";
     static final double FEE = 10;
     static final double MAX_AMOUNT = 50000;
 
